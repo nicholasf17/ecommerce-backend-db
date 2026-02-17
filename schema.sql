@@ -96,4 +96,4 @@ CREATE TABLE reviews (
     FOREIGN KEY (product_id) REFERENCES products(product_id)
 );
 
-
+-- drop database ecomm
